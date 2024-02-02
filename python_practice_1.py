@@ -1,0 +1,1 @@
+print('Kurylenko Oleksandra, IPZ-5')
